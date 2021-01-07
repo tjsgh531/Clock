@@ -7,7 +7,7 @@ body{
     align-items: center;
     justify-content: center;
 
-    background-image: url("./backgorund.jpg") no-repeat;
+    background-image: url("./backgorund.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -19,7 +19,7 @@ main{
 
     background: rgba(255, 255, 255 , 0.3);
     backdrop-filter: blur(10px);
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
